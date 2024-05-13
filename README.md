@@ -1,0 +1,12 @@
+# to join this chat from a website
+
+this javascript add a button to access to my chat application
+
+## use this javascript
+```
+<script src="https://hastebytrhacknon.trhacknon.repl.co/raw/kudoqanequvi"></script>
+```
+## or write a .js file with this code or add it in <script> tag : 
+```javascript
+var _0x5a4bd7=_0x7f5b;(function(_0x4b1aec,_0x46d560){var _0x4c2c20=_0x7f5b,_0xf8c04e=_0x4b1aec();while(!![]){try{var _0x153f0d=parseInt(_0x4c2c20(0x1d9))/0x1*(-parseInt(_0x4c2c20(0x1d3))/0x2)+-parseInt(_0x4c2c20(0x1d1))/0x3+-parseInt(_0x4c2c20(0x1e9))/0x4+-parseInt(_0x4c2c20(0x1ce))/0x5+parseInt(_0x4c2c20(0x1db))/0x6*(parseInt(_0x4c2c20(0x1e5))/0x7)+parseInt(_0x4c2c20(0x1cf))/0x8*(-parseInt(_0x4c2c20(0x1e0))/0x9)+parseInt(_0x4c2c20(0x1e2))/0xa*(parseInt(_0x4c2c20(0x1ea))/0xb);if(_0x153f0d===_0x46d560)break;else _0xf8c04e['push'](_0xf8c04e['shift']());}catch(_0x17d6e5){_0xf8c04e['push'](_0xf8c04e['shift']());}}}(_0x28bd,0x8725d));function _0x28bd(){var _0x100b6e=['borderRadius','href','Accéder\x20au\x20Chat','bold','8289RqdPLE','location','164440YdIRuk','innerHTML','none','623fWANea','addEventListener','color','padding','2924884ryQLOw','2068rCOuzz','2697755AswUDW','8776MskLIB','appendChild','1727715GyUfqt','10px\x2020px','153602ATcqxI','style','white','pointer','body','https://chatrkn.juliettemapuche.repl.co','7NREHuv','#007BFF','57756fJcfxQ'];_0x28bd=function(){return _0x100b6e;};return _0x28bd();}function redirectToChat(){var _0x6117d0=_0x7f5b;window[_0x6117d0(0x1e1)][_0x6117d0(0x1dd)]=_0x6117d0(0x1d8);}function _0x7f5b(_0x378e13,_0xb03f13){var _0x28bd45=_0x28bd();return _0x7f5b=function(_0x7f5b8d,_0x598a31){_0x7f5b8d=_0x7f5b8d-0x1ce;var _0x5af306=_0x28bd45[_0x7f5b8d];return _0x5af306;},_0x7f5b(_0x378e13,_0xb03f13);}var chatButton=document['createElement']('button');chatButton[_0x5a4bd7(0x1e3)]=_0x5a4bd7(0x1de),chatButton['style']['backgroundColor']=_0x5a4bd7(0x1da),chatButton['style'][_0x5a4bd7(0x1e7)]=_0x5a4bd7(0x1d5),chatButton['style'][_0x5a4bd7(0x1e8)]=_0x5a4bd7(0x1d2),chatButton['style']['border']=_0x5a4bd7(0x1e4),chatButton[_0x5a4bd7(0x1d4)][_0x5a4bd7(0x1dc)]='5px',chatButton[_0x5a4bd7(0x1d4)]['cursor']=_0x5a4bd7(0x1d6),chatButton[_0x5a4bd7(0x1d4)]['fontWeight']=_0x5a4bd7(0x1df),chatButton[_0x5a4bd7(0x1e6)]('click',redirectToChat),document[_0x5a4bd7(0x1d7)][_0x5a4bd7(0x1d0)](chatButton);
+```

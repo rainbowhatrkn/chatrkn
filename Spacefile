@@ -1,0 +1,13 @@
+# Spacefile Docs: https://go.deta.dev/docs/spacefile/v0
+v: 0
+micros:
+  - name: chatrkn
+    src: ./
+    engine: nodejs16
+    primary: true
+    public_routes:
+      - "/*"
+    presets:
+      env:
+        - name: PASS1
+        - name: PASS2
